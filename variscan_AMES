@@ -1,0 +1,4 @@
+#Variscan command line
+#just change which chromosome is input, config file and output 
+
+variscan /Users/timyang/Desktop/RI_Lab/AmesUSInbreds_AllZeaGBSv1.0_imputed-130508/AmesUSInbreds_AllZeaGBSv1.0_imputed_20130508_chr4.hmp.txt /Users/timyang/Desktop/RI_Lab/config_files/config-chr4AMES > /Users/timyang/Desktop/RI_Lab/variscan-outputs/variscan_chr4
